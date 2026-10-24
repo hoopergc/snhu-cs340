@@ -1,4 +1,4 @@
-# CS340 Portfolio
+# CS340 Client/Server Development Portfolio
 
 # How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 I make programs that are maintainable, readable, and adaptable by documenting my code’s functionality with concrete examples and including comments in my code. When writing CRUD_Python_Module, I configured my AnimalShelter class to make use of pass by references in order to allow a user to configure authentication and connection parameters along with the ability to set the database and collection; this helps to ensure the class is adaptable to other applications that need to perform CRUD operations on a MongoDB collection.
